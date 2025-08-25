@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "wisielec",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "wisielec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wisielec-Debug-cd8544c95e7a5074e979.json",
+					"name" : "wisielec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wisielec_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wisielec_autogen-Debug-4cfe1a3c2e8d2acf26ba.json",
+					"name" : "wisielec_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wisielec_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wisielec_autogen_timestamp_deps-Debug-78dc7767aeff94acb165.json",
+					"name" : "wisielec_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/aProgramowanie/wisielec"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

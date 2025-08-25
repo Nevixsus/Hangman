@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/wisielec_autogen",
+	"CMAKE_BINARY_DIR" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/aProgramowanie/wisielec",
+	"CMAKE_SOURCE_DIR" : "D:/aProgramowanie/wisielec",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/wisielec_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/aProgramowanie/wisielec/images/s8.jpg",
+		"D:/aProgramowanie/wisielec/images/s5.jpg",
+		"D:/aProgramowanie/wisielec/images/s6.jpg",
+		"D:/aProgramowanie/wisielec/images/s2.jpg",
+		"D:/aProgramowanie/wisielec/images/s0.jpg",
+		"D:/aProgramowanie/wisielec/images/s1.jpg",
+		"D:/aProgramowanie/wisielec/images/s7.jpg",
+		"D:/aProgramowanie/wisielec/images/tlo.jpg",
+		"D:/aProgramowanie/wisielec/images/s3.jpg",
+		"D:/aProgramowanie/wisielec/images/s4.jpg",
+		"D:/aProgramowanie/wisielec/images/s9.jpg",
+		"D:/aProgramowanie/wisielec/images/icon.png"
+	],
+	"LOCK_FILE" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/wisielec_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/aProgramowanie/wisielec/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/wisielec_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/aProgramowanie/wisielec/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
